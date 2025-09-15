@@ -6,4 +6,4 @@ kody na soutez datacon 2025
 - rozdělení datumů je indentifikace vln očkování a přiřazení "datůmů očkování" neočkovaným
 - výpočet poměrů (**tyto kódy běží dlouho**) přepočítává spotřebu kortikoidů po a před vakcínou - nepočítá samotné poměry
 - bodové odhady jsou grafy bodových odhadů poměru spotřeby kortikoidů
-- bayes simple třetí jsou bayesovské odhady RoR (simple kvůli tomu, že nepoužívám knihovnu, ale vlastní funkce), formát jupyter notebook
+- bayes simple třetí jsou bayesovské odhady RoR pro třetí vlnu očkování (simple kvůli tomu, že nepoužívám knihovnu, ale vlastní funkce), formát jupyter notebook
